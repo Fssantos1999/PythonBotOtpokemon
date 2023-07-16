@@ -1,3 +1,3 @@
 Instale as bibliotecas que esta no codígo
 
-caso necessario atualize as imagens localizada na pagina
+caso necessario atualize as imagens localizada na pasta
