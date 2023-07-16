@@ -1,3 +1,6 @@
+
+Automatização de uma tarefa que a linguagem de programação precisa reconhcer certas imagens que aparece na tela para que ela execute a função dentro do código
+
 Instale as bibliotecas que esta no codígo
 
 caso necessario atualize as imagens localizada na pasta
